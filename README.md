@@ -2,7 +2,7 @@
 mlzoomcamp notebook exercises organized by DataTalksClub
 These are notebooks for the exercises and homework from the mlzoomcamp. 
 
-Lessons learned so far 
--numpy, pandas, matplotlib, sns
--linear regression
--logistic regression
+Week 1: Introduction to Machine Learning
+Week 2: Linear Regression 
+Week 3: Logistic Regression
+Week 4: Evaluation Metrics
