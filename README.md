@@ -1,8 +1,8 @@
-# Machine_Learning_Camp
-mlzoomcamp notebook exercises organized by DataTalksClub
-These are notebooks for the exercises and homework from the mlzoomcamp. 
+# Machine_Learning_Camp<br>
+mlzoomcamp notebook exercises organized by DataTalksClub<br>
+These are notebooks for the exercises and homework from the mlzoomcamp.<br>
 
-Week 1: Introduction to Machine Learning
-Week 2: Linear Regression 
-Week 3: Logistic Regression
-Week 4: Evaluation Metrics
+Week 1: Introduction to Machine Learning<br>
+Week 2: Linear Regression<br>
+Week 3: Logistic Regression<br>
+Week 4: Evaluation Metrics<br>
