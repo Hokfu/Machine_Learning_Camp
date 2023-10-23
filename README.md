@@ -6,3 +6,5 @@ Week 1: Introduction to Machine Learning<br>
 Week 2: Linear Regression<br>
 Week 3: Logistic Regression<br>
 Week 4: Evaluation Metrics<br>
+Week 5: Model Deployment<br>
+Week 6: Decision Tree<br>
