@@ -39,6 +39,7 @@ The project is done from experiment to containarization.<br><br>
 Here is my project repo - [Energy Consumption Model](https://github.com/Hokfu/Energy-Consumption-Model)
 # Week 8: Deep Learning
 - Image Classification
+- Convolutional Neural Networks
 - Tensorflow Keras
 - Transfer learning
 - Data Augmentation
