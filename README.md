@@ -1,7 +1,7 @@
 # Machine Learning Zoomcamp
 This is my learning journey in [machine learning zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp) organized by [DataTalksClub](https://datatalks.club/)
 <br><br>
-I first started my machine learning journey with this course, and I am grateful to DataTalksClub for making this course happen. 🥰
+I first started my machine learning journey with this course, and I am grateful to DataTalksClub for making this course happen. 
 
 # Week 1: Introduction to Machine Learning
 - Introduction to Python and jupyter notebook
